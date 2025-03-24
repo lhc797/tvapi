@@ -2158,10 +2158,6 @@
       "url": "https://lives.catvod.com/Sub.m3u"
     },
     {
-      "name": "catvod.com(hosts)",
-      "url": "https://tvbox.catvod.com/tv.m3u"
-    },
-    {
       "name": "ITV",
       "type": 0,
       "url": "https://9877.kstore.space/Live/ITV.txt",
