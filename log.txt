@@ -2201,12 +2201,8 @@
       "url": "https://iptv.catvod.com/tv.m3u"
     },
     {
-      "name": "catvod.com(备用1)",
+      "name": "catvod.com(备用)",
       "url": "https://live.catvod.com/tv.m3u"
-    },
-    {
-      "name": "catvod.com(备用2)",
-      "url": "https://lives.catvod.com/Sub.m3u"
     },
     {
       "name": "ITV",
