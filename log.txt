@@ -2186,6 +2186,12 @@
       "timeout": 10
     },
     {
+      "name": "直播",
+      "type": 3,
+      "url": "http://github.catvod.com/https://raw.githubusercontent.com/qitoqito/qito/main/qito/parse/video/miguvideo.py",
+      "ext": {}
+    },
+    {
       "name": "AI直播+",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u",
