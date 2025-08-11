@@ -1285,20 +1285,6 @@
       }
     },
     {
-      "key": "次元动漫",
-      "name": "次元｜动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://jjjj.nilinili.org",
-        "dataKey": "672263e98f232a05",
-        "dataIv": "672263e98f232a05",
-        "deviceId": "",
-        "version": "170"
-      }
-    },
-    {
       "key": "派对动漫",
       "name": "派对｜动漫",
       "type": 3,
@@ -2045,7 +2031,9 @@
   "lives": [
     {
       "name": "catvod.com",
-      "url": "https://iptv.catvod.com/tv.m3u"
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "ua": "okHttp/Mod-1.0.0"
     },
     {
       "name": "catvod.com(备用)",
