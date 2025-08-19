@@ -2061,20 +2061,6 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "catvod.com",
-      "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u",
-      "ua": "okHttp/Mod-1.0.1"
-    },
-    {
-      "name": "catvod.com(备用)",
-      "type": 0,
-      "url": "https://live.catvod.com/tv.m3u",
-      "ua": "catvod.com"
-    }
-  ],
   "hosts": [
     "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
     "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
@@ -2282,5 +2268,19 @@
   ],
   "ads": [
     "static-mozai.4gtv.tv"
+  ],
+  "lives": [
+    {
+      "name": "catvod.com",
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "ua": "okHttp/Mod-1.0.1"
+    },
+    {
+      "name": "catvod.com(备用)",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u",
+      "ua": "catvod.com"
+    }
   ]
 }
