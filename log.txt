@@ -2435,7 +2435,7 @@
       "name": "catvod.com",
       "type": 0,
       "url": "https://iptv.catvod.com/tv.m3u",
-      "ua": "okHttp/Mod-1.3.0.0"
+      "ua": "catvod.com"
     },
     {
       "name": "catvod.com(备用)",
