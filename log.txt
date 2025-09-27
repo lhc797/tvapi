@@ -1115,6 +1115,13 @@
       "filterable": 1
     },
     {
+      "key": "番茄短剧",
+      "name": "番茄｜短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/番茄短剧.json"
+    },
+    {
       "key": "剧屋短剧",
       "name": "剧屋｜短剧",
       "type": 3,
@@ -2565,14 +2572,12 @@
     {
       "name": "catvod.com",
       "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u",
-      "ua": "catvod.com"
+      "url": "https://iptv.catvod.com/tv.m3u"
     },
     {
       "name": "catvod.com(备用)",
       "type": 0,
-      "url": "https://live.catvod.com/tv.m3u",
-      "ua": "catvod.com"
+      "url": "https://live.catvod.com/tv.m3u"
     }
   ]
 }
