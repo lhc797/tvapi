@@ -76,8 +76,8 @@
       "ext": "https://v.catcs.cc/api.php/v1.vod"
     },
     {
-      "key": "冷心",
-      "name": "冷心｜APP",
+      "key": "火猫",
+      "name": "火猫｜APP",
       "type": 3,
       "api": "csp_AppMuou",
       "ext": {
@@ -98,15 +98,15 @@
       }
     },
     {
-      "key": "爱影",
-      "name": "爱影｜APP",
+      "key": "一一",
+      "name": "一一｜APP",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
+      "api": "csp_AppMuou",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d"
+        "url": "http://app.yiyi521.top",
+        "name": "YIYI影视"
       }
     },
     {
@@ -120,19 +120,6 @@
         "dataKey": "37kj83zs1q16jk6t",
         "dataIv": "37kj83zs1q16jk6t",
         "version": "101"
-      }
-    },
-    {
-      "key": "若雪",
-      "name": "若雪丨APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://appcms.rx4k.top",
-        "dataKey": "ZX10ysTYZWtIJCTU",
-        "dataIv": "ZX10ysTYZWtIJCTU",
-        "version": "120"
       }
     },
     {
@@ -543,7 +530,7 @@
       "api": "csp_SP360"
     },
     {
-      "key": "小斑快映",
+      "key": "快映",
       "name": "快映｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -551,10 +538,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/xbky.json"
+      "ext": "./json/快映.json"
     },
     {
-      "key": "玩偶哥哥",
+      "key": "玩偶",
       "name": "玩偶｜4K",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -562,7 +549,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/wogg.json"
+      "ext": "./json/玩偶.json"
     },
     {
       "key": "木偶",
@@ -573,7 +560,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/mogg.json"
+      "ext": "./json/木偶.json"
     },
     {
       "key": "蜡笔",
@@ -584,7 +571,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/lb.json"
+      "ext": "./json/蜡笔.json"
     },
     {
       "key": "至臻",
@@ -595,7 +582,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/zz.json"
+      "ext": "./json/至臻.json"
     },
     {
       "key": "多多",
@@ -606,7 +593,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/yyds.json"
+      "ext": "./json/多多.json"
     },
     {
       "key": "欧哥",
@@ -617,7 +604,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/og.json"
+      "ext": "./json/欧哥.json"
     },
     {
       "key": "二小",
@@ -628,7 +615,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/ex.json"
+      "ext": "./json/二小.json"
     },
     {
       "key": "虎斑",
@@ -639,7 +626,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/hb.json"
+      "ext": "./json/虎斑.json"
     },
     {
       "key": "雷鲸",
@@ -654,7 +641,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/lj.json"
+      "ext": "./json/雷鲸.json"
     },
     {
       "key": "海绵",
@@ -669,7 +656,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/hm.json"
+      "ext": "./json/海绵.json"
     },
     {
       "key": "夸父",
@@ -684,7 +671,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./json/kf.json"
+      "ext": "./json/夸父.json"
     },
     {
       "key": "123",
