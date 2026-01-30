@@ -1438,6 +1438,12 @@
       }
     },
     {
+      "key": "酷狗",
+      "name": "酷狗｜音乐",
+      "type": 3,
+      "api": "csp_Kugou"
+    },
+    {
       "key": "爱听音乐",
       "name": "爱听｜音乐",
       "type": 3,
@@ -1697,6 +1703,19 @@
       "filterable": 0,
       "changeable": 0
     }
+  ],
+  "lives": [
+    {
+      "name": "catvod.com",
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u"
+    },
+    {
+      "name": "catvod.com(备用)",
+      "type": 0,
+      "url": "https://live.catvod.com/tv.m3u"
+    },
+    {}
   ],
   "parses": [
     {
@@ -2093,17 +2112,5 @@
   ],
   "ads": [
     "static-mozai.4gtv.tv"
-  ],
-  "lives": [
-    {
-      "name": "catvod.com",
-      "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u"
-    },
-    {
-      "name": "catvod.com(备用)",
-      "type": 0,
-      "url": "https://live.catvod.com/tv.m3u"
-    }
   ]
 }
